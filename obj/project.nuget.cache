@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HA0am7eggyppvukpryFsjVZFiYalBPkZQRz0mRoGxhJulKuS8uCHPS5a1pmCNDxJyFpSQuTYnL06TEX7+e/GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\Desktop\\ANÁL. E DES. DE SISTEMAS\\1º SEMESTRE\\SOFTWARE BÁSICO\\c#_exercicios_aula5\\ContasAtrasadas\\ContasAtrasadas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
